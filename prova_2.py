@@ -23,4 +23,14 @@ else:(print('cass'))
 
 #questo è il primo esempio di commento
 #piu commenti vanno su più righe se ogni volta metto di nuovo l'asterisco
-hvvvvghghhv
+lista = (1,2,"quadrato",2+4j)
+print (lista)
+print((1<2)and(1>2))
+
+string_1=(1,2,3,4)
+string_2=[1,2,3,4]
+string_2.append(5)
+print (string_1,string_2)
+string_1.append(5)
+
+casssssss così si che si fa binteressante la cosa
